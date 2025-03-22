@@ -117,10 +117,10 @@
   <img alt="Pratik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=manasvikalyan&theme=tokyo-night&hide_border=true" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=manasvikalyan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="github trophies" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <br>
