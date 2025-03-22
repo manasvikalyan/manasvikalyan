@@ -26,6 +26,7 @@
 <a href="https://linkedin.com/in/manasvi-kalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasvi-kalyan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manasvikalyan63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manasvikalyan63" height="30" width="40" /></a>
 </p> -->
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://twitter.com/manasvikalyan" target="blank">
