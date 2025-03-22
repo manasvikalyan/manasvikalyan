@@ -104,12 +104,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasvikalyan&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvikalyan&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manasvikalyan&show_icons=true&theme=blues" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasvikalyan&layout=compact&theme=blues" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasvikalyan&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasvikalyan&theme=blues" alt="Streak Stats" />
 </div>
 
 <div align="center">
