@@ -114,21 +114,17 @@
 
 <div align="center">
   <h3>📈 Activity Graph</h3>
-  <img alt="Pratik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dekode1859&theme=tokyo-night&hide_border=true" />
+  <img alt="Pratik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=manasvikalyan&theme=tokyo-night&hide_border=true" />
 </div>
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=dekode1859&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manasvikalyan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="github trophies" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dekode1859&label=Profile%20Views&color=6&icon=5&pretty=true" alt="visitor counter" />
+    <img src="https://visitcount.itsvg.in/api?id=manasvikalyan&label=Profile%20Views&color=6&icon=5&pretty=true" alt="visitor counter" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kfb5q2pafrvwbm5k7vsahkwmaa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-</div>
+</div> -->
