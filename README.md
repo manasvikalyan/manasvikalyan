@@ -5,8 +5,6 @@
 
 <br> <!-- Add line break for spacing -->
 
-<img align="right" width="400" src="https://spectrum.ieee.org/media-library/an-animation-showing-a-conceptual-representation-of-a-generative-ai-network.gif?id=51461227&width=1200&height=900" alt="GIF" style="display:block; margin:auto; width:100%; max-width:800px;">
-
 
 - 🌱 I’m currently learning **finetuning and quantizing Hugginface LLMs**
 
